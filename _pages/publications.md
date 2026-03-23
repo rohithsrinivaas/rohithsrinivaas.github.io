@@ -15,13 +15,13 @@ Reactivity of Cyclic and Linear Alkyl Carbonates with Reactive Oxygen Species  <
 5c12089">(link)</a>
 3. Ridwan A. Ahmed, **Rohith Srinivaas Mohanakrishnan**, Krishna P. Koirala, Jingyang Wang, Qian Zhao, Yanbao Fu,
 Ying Chen, Justin C. Rastinejad, Tianyu Li, Lirong Zhong, Mateusz Zuba, Carrie Siu, Ozgenur Kahvecioglu, Rapha¨ele
-J. Clement, Bryan D. McCloskey, Vincent S. Battaglia, Kristin Persson, Chongmin Wang and Wu Xu, Designing Advanced Electrolytes for High-Voltage High-Capacity Disordered Rocksalt Cathodes https://doi.org/10.1002/smll.
-202501600
+J. Clement, Bryan D. McCloskey, Vincent S. Battaglia, Kristin Persson, Chongmin Wang and Wu Xu, Designing Advanced Electrolytes for High-Voltage High-Capacity Disordered Rocksalt Cathodes <a href="https://doi.org/10.1002/smll.
+202501600">(link)</a>
 4. Han-Ming Hau, Tucker Holstun, Eunryeol Lee, Bernardine L. D. Rinkel, Tara P. Mishra, Max Markuson DiPrince, **Rohith Srinivaas Mohanakrishnan**, Ethan C. Self, Kristin A. Persson, Bryan D. McCloskey, and Gerbrand Ceder. Disordered
-Rocksalts as High-Energy and Earth-Abundant Li-Ion Cathodes. https://doi.org/10.1002/adma.202502766
+Rocksalts as High-Energy and Earth-Abundant Li-Ion Cathodes. <a href="https://doi.org/10.1002/adma.202502766">(link)</a>
 5. Laura Zichi, Daniel Barter, Eric Sivonxay, Evan Walter Clark Spotte-Smith, **Rohith Srinivaas Mohanakrishnan**, Kristin
-A. Persson, and Samuel M. Blau. RNMC: kinetic Monte Carlo implementations for complex reaction networks https:
-//doi.org/10.21105/joss.07244
+A. Persson, and Samuel M. Blau. RNMC: kinetic Monte Carlo implementations for complex reaction networks <a href="https:
+//doi.org/10.21105/joss.07244">(link)</a>
 6. Alex M. Ganose, Hrushikesh Sahasrabuddhe, Mark Asta, Kevin Beck, Tathagata Biswas, Alexander Bonkowski, Joana
 Bustamante, Xin Chen, Yuan Chiang, Daryl C. Chrzan, Jacob Clary, Orion A. Cohen, Christina Ertural, Max C. Gallant,
 Janine George, Sophie Gerits, Rhys E. A. Goodall, Rishabh D. Guha, Geoffroy Hautier, Matthew Horton, T. J. Inizan,
@@ -30,12 +30,12 @@ Srinivaas Mohanakrishnan, Aakash N. Naik, Jeffrey B. Neaton, Shehan M. Parmar, K
 Thomas A. R. Purcell, Francesco Ricci, Benjamin Rich, Janosh Riebesell, Gian-Marco Rignanese, Andrew S. Rosen,
 Matthias Scheffler, Jonathan Schmidt, Jimmy-Xuan Shen, Andrei Sobolev, Ravishankar Sundararaman, Cooper Tezak,
 Victor Trinquet, Joel B. Varley, Derek Vigil-Fowler, Duo Wang, David Waroquiers, Mingjian Wen, Han Yang, Hui
-Zheng, Jiongzhi Zheng, Zhuoying Zhu and Anubhav Jain. Atomate2: modular workflows for materials science https:
-//doi.org/10.1039/D5DD00019J
+Zheng, Jiongzhi Zheng, Zhuoying Zhu and Anubhav Jain. Atomate2: modular workflows for materials science <a href="https:
+//doi.org/10.1039/D5DD00019J">(link)</a>
 7. Mythreyi OV, **M. Rohith Srinivaas** , Amit Kumar T, Jayaganthan R. Machine-Learning-Based Prediction of Corrosion
-Behavior in Additively Manufactured Inconel 718 https://doi.org/10.3390/data6080080
-8. **M. Rohith Srinivaas**, K C Hari Kumar. Size- and Shape-Dependent Phase Diagram of Ga-Sb nanoparticles. https:
-//doi.org/10.1016/j.calphad.2021.102389
+Behavior in Additively Manufactured Inconel 718 <a href="https://doi.org/10.3390/data6080080">(link)</a>
+8. **M. Rohith Srinivaas**, K C Hari Kumar. Size- and Shape-Dependent Phase Diagram of Ga-Sb nanoparticles. <a href="https:
+//doi.org/10.1016/j.calphad.2021.102389">(link)</a>
 9. **Rohith Srinivaas Mohanakrishnan**, Jingyang Wang, Kristin Persson, Solvation structure and Transport properties in
 (Localized) High Concentration Electrolytes for Li-based batteries (In Review)
 10. **Rohith Srinivaas Mohanakrishnan**, K C Hari Kumar.Thermodynamic modelling of Ti-Mo-Zr system coupled with ab
