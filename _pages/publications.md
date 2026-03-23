@@ -8,9 +8,9 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com/citations?user=cCKzNMMAAAAJ&hl=en">my Google Scholar profile</a>
 
 {% include base_path %}
-– Chang Li, **Rohith Srinivaas Mohanakrishnan**, Jinghan Li, Rishabh D. Guha, Kristin A. Persson and Linda F. Nazar,
+1. Chang Li, **Rohith Srinivaas Mohanakrishnan**, Jinghan Li, Rishabh D. Guha, Kristin A. Persson and Linda F. Nazar,
 Unraveling the Steric Effect of Trialkyl Phosphates on the Solvation Sheath and Solid Electrolyte Interphase in HighEfficiency Magnesium Electrolytes <a href="https://doi.org/10.1021/jacs.5c14645">(link)</a>
-– Bernardine L. D. Rinkel, **Rohith Srinivaas Mohanakrishnan**, Jaeheon Lee, Kristin A. Persson, and Bryan D. McCloskey
+2. Bernardine L. D. Rinkel, **Rohith Srinivaas Mohanakrishnan**, Jaeheon Lee, Kristin A. Persson, and Bryan D. McCloskey
 Reactivity of Cyclic and Linear Alkyl Carbonates with Reactive Oxygen Species  <a href="https://doi.org/10.1021/jacs.
 5c12089">(link)</a>
 – Ridwan A. Ahmed, **Rohith Srinivaas Mohanakrishnan**, Krishna P. Koirala, Jingyang Wang, Qian Zhao, Yanbao Fu,
