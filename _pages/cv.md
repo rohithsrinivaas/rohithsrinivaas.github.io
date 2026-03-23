@@ -13,14 +13,16 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Metallurgical and Materials Engineering, IIT Madras, 2021
+* Ph.D in Materials Science and Engineering, UC Berkeley, 2027 (expected)
+* Masters in Materials Science and Engineering, UC Berkeley, 2025
 * M.Tech in Computational Engineering, IIT Madras, 2021
-* Ph.D in Materials Engineering, UC Berkeley, 2027 (expected)
+* B.Tech. in Metallurgical and Materials Engineering, IIT Madras, 2021
+
 
 Previous Work experience
 ======
 * Machine Learning Scientist - Global Data Sciences - PayPal Chennai
-  * Duties included: Develop realtime machine learning models to predict Credit Fraud behaviour of the users 
+  * Develop realtime machine learning models to predict Credit Fraud behaviour of the users 
   * Manager: Mahesh Balan Umaithanu
 
 Skills
